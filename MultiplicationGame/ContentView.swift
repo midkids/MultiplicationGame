@@ -7,8 +7,6 @@
 
 import SwiftUI
 
-// Test commit and push
-
 struct Question: Identifiable {
     let id = UUID()
     let qProblem: String
